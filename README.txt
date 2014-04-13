@@ -18,3 +18,4 @@
 ** Milestones 1Goal:
 	- Database
 	- Importer
+	- GOServer
